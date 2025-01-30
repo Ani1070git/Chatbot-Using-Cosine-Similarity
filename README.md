@@ -13,4 +13,5 @@ Cosine Similarity Calculation: The similarity between the user's input and each 
 
 Response Generation: If a match is found, the corresponding answer is displayed. Otherwise, the chatbot responds with, "We can't answer this."
 
-🔄![image](https://github.com/user-attachments/assets/cc205817-9ab8-45b3-83db-c20605805b2e)
+# 🔄 Process Flow
+![image](https://github.com/user-attachments/assets/cc205817-9ab8-45b3-83db-c20605805b2e)
